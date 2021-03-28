@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.59ef6c52.chunk.css",
+    "main.js": "./static/js/main.9e515752.chunk.js",
+    "main.js.map": "./static/js/main.9e515752.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.1f5a5dec.js",
+    "runtime-main.js.map": "./static/js/runtime-main.1f5a5dec.js.map",
+    "static/js/2.890b659a.chunk.js": "./static/js/2.890b659a.chunk.js",
+    "static/js/2.890b659a.chunk.js.map": "./static/js/2.890b659a.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.59ef6c52.chunk.css.map": "./static/css/main.59ef6c52.chunk.css.map",
+    "static/js/2.890b659a.chunk.js.LICENSE.txt": "./static/js/2.890b659a.chunk.js.LICENSE.txt",
+    "static/js/main.9e515752.chunk.js.LICENSE.txt": "./static/js/main.9e515752.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/argon-design-system-react.css": "./static/media/galaxy.523d4c10.jpg",
+    "static/media/nucleo.css": "./static/media/nucleo-icons.d6a66724.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f5a5dec.js",
+    "static/js/2.890b659a.chunk.js",
+    "static/css/main.59ef6c52.chunk.css",
+    "static/js/main.9e515752.chunk.js"
+  ]
+}
